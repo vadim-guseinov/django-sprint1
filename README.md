@@ -10,7 +10,7 @@
 
 </div>
 
-> Первый этап проекта. Итоговая версия — **[django-sprint4](https://github.com/JuliaDJ1/django-sprint4)**.
+> Первый этап проекта. Итоговая версия — **[django-sprint4](https://github.com/vadim-guseinov/django-sprint4)**.
 
 ## Что сделано
 
@@ -26,7 +26,7 @@ Python 3.12 · Django 5.1 · Django Templates · Bootstrap · pytest
 ## Запуск
 
 ```bash
-git clone https://github.com/JuliaDJ1/django-sprint1.git
+git clone https://github.com/vadim-guseinov/django-sprint1.git
 cd django-sprint1
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
